@@ -34,3 +34,10 @@ The Model Algorithms have been used are:
 | Mean absolute error(MAE)|  1.209 |
 | Mean Square Error (MSE) |  3.782 |
 | Quadratic mean (RMSE)   |  1.944 |
+
+
+<a href="http://archive.today/OnchD">
+ <img style="width:300px;height:200px;background-color:white" src="https://archive.vn/OnchD/5c9c3f0ab34feb074a04c005ae237edf38b6fd26/scr.png"><br>
+ Node-RED Dashboard<br>
+ archived 9 Jun 2020 18:10:33 UTC
+</a>
