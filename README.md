@@ -13,7 +13,12 @@ Scope, Schedule, Team & Deliverables
 
 ## Solution: [Live-Site](https://life-expectancy-predition.mybluemix.net/ui)
 
-**In case, if Live-site is forming any error check [Webpage archive](http://archive.today/OnchD)**
+**In case, if Live-site is forming any error check Webpage archive**
+
+<a href="http://archive.today/OnchD">
+ <img style="width:300px;height:200px;background-color:white" src="https://archive.vn/OnchD"><br>
+ Node-RED Dashboard<br>
+</a>
 ### Discussion :
 Using Machine Learning I have explain and predict the life expectancy of different countries depending on various factors such as year, GDP, education, alcohol intake of people in the country, expenditure on healthcare system and some specific disease related deaths and many other factors of the countries.
 
@@ -34,10 +39,3 @@ The Model Algorithms have been used are:
 | Mean absolute error(MAE)|  1.209 |
 | Mean Square Error (MSE) |  3.782 |
 | Quadratic mean (RMSE)   |  1.944 |
-
-
-<a href="http://archive.today/OnchD">
- <img style="width:300px;height:200px;background-color:white" src="https://archive.vn/OnchD/5c9c3f0ab34feb074a04c005ae237edf38b6fd26/scr.png"><br>
- Node-RED Dashboard<br>
- archived 9 Jun 2020 18:10:33 UTC
-</a>
